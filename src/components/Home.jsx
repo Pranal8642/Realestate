@@ -11,7 +11,7 @@ const HomePage = () => {
       {/* First Section with Background Image */}
       <div
         className="w-full min-h-screen bg-cover bg-center flex flex-col items-center justify-center"
-        style={{ backgroundImage: "url('/public/desktop-banner.jpeg')" }} // First background image
+        style={{ backgroundImage: "url('/desktop-banner.jpeg')" }} // First background image
       >
         <div className="bg-white bg-opacity-80 p-10 rounded-lg shadow-md text-center max-w-3xl">
           <h1 className="text-4xl font-bold mb-4 text-gray-900">Find Your Perfect Home</h1>
@@ -29,7 +29,7 @@ const HomePage = () => {
       {/* Second Section with Another Background Image */}
       <div
         className="w-full min-h-screen bg-cover bg-center flex flex-col items-center justify-center mt-10"
-        style={{ backgroundImage: "url('/public/house.png')" }} // Second background image
+        style={{ backgroundImage: "url('/house.png')" }} // Second background image
       >
         <div className="bg-white bg-opacity-80 p-10 rounded-lg shadow-md text-center max-w-3xl">
           <h1 className="text-4xl font-bold mb-4 text-gray-900">Discover More Properties</h1>

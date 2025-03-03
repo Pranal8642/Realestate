@@ -19,12 +19,12 @@ const PopularProperties = () => {
   const scrollRef = useRef(null);
 
   const properties = [
-    { image: "/public/3bhk.png", title: "Luxury 3BHK Apartment", location: "Rajapeth, Amravati", price: "₹45 Lakhs" },
-    { image: "/public/2bhk.png", title: "Modern 2BHK Flat", location: "Gadge Nagar, Amravati", price: "₹35 Lakhs" },
-    { image: "/public/villa.png", title: "Spacious Villa", location: "Sai Nagar, Amravati", price: "₹1.2 Crores" },
-    { image: "/public/1bhk.png", title: "Affordable 1BHK Apartment", location: "Dastur Nagar, Amravati", price: "₹25 Lakhs" },
-    { image: "/public/industrial.png", title: "Commercial Space for Rent", location: "MIDC, Amravati", price: "₹30,000/month" },
-    { image: "/public/warehouse.png", title: "Warehouse for Rent", location: "MIDC, Amravati", price: "₹50,000/month" },
+    { image: "/3bhk.png", title: "Luxury 3BHK Apartment", location: "Rajapeth, Amravati", price: "₹45 Lakhs" },
+    { image: "/2bhk.png", title: "Modern 2BHK Flat", location: "Gadge Nagar, Amravati", price: "₹35 Lakhs" },
+    { image: "/villa.png", title: "Spacious Villa", location: "Sai Nagar, Amravati", price: "₹1.2 Crores" },
+    { image: "/1bhk.png", title: "Affordable 1BHK Apartment", location: "Dastur Nagar, Amravati", price: "₹25 Lakhs" },
+    { image: "/industrial.png", title: "Commercial Space for Rent", location: "MIDC, Amravati", price: "₹30,000/month" },
+    { image: "/warehouse.png", title: "Warehouse for Rent", location: "MIDC, Amravati", price: "₹50,000/month" },
   ];
 
   // Scroll Left
