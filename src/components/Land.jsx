@@ -1,6 +1,6 @@
 import "react";
 
-const LandCard = () => {
+const Land= () => {
   return (
     <div className="w-full max-w-6xl mt-10">
       <div className="bg-white bg-opacity-90 p-6 rounded-lg shadow-md text-center">
@@ -15,4 +15,4 @@ const LandCard = () => {
   );
 };
 
-export default LandCard;
+export default Land;

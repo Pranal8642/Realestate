@@ -2,7 +2,8 @@ import "react";
 import Cards from "./Cards"; // Import the card component
 import RentalHomesCard from "./RentalHomesCard"; // Import RentalHomesCard
 import PopularProperties from "./Popularproperties";
-import LandCard from "./Landcard";
+import Land from "./Land";
+
 
 const HomePage = () => {
   return (
@@ -44,7 +45,7 @@ const HomePage = () => {
       </div>
 
       {/* Land Card Section */}
-      <LandCard />
+      <Land/>
 
       {/* Rental Homes Card Section */}
       <RentalHomesCard />
