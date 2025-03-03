@@ -6,19 +6,19 @@ const Cards = () => {
       title: "Buy",
       description: "Redfin agents are among the most experienced in the industry and can help you win in today's market.",
       buttonText: "Find an agent",
-      image: "/public/buy.png", // Replace with actual image path
+      image: "/buy.png", // Replace with actual image path
     },
     {
       title: "Sell",
       description: "We know how to price, market, and sell your home for top dollar. And we do it all for half the listing fee other agents charge.",
       buttonText: "Learn more",
-      image: "/public/sell.png", // Replace with actual image path
+      image: "/sell.png", // Replace with actual image path
     },
     {
       title: "Rent",
       description: "Whether you're searching for apartments, condos, or rental homes, we make it easy to find a place you'll love.",
       buttonText: "Explore rentals",
-      image: "/public/rent.png", // Replace with actual image path
+      image: "/rent.png", // Replace with actual image path
     },
   ];
 
